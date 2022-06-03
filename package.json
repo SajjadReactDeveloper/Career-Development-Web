@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^100.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemailer": "^6.7.5"
+  }
+}
